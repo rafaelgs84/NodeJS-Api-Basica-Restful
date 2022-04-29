@@ -1,2 +1,2 @@
-# NodeJS-Api-Basica-Restfull
-Modelo básico para estudo de api restfull em node.js. 
+# NodeJS-Api-Basica-Restful
+Modelo básico para estudo de api restful em node.js. 
