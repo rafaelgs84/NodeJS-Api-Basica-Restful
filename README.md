@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NodeJS-Api-Basica-Restfull
 Modelo básico para estudo de api restfull em node.js.
 
@@ -20,3 +21,7 @@ Modelo básico para estudo de api restfull em node.js.
     - 404: Not Found
 - 5xx: Server Error
     - 500: Internal Server Error
+=======
+# NodeJS-Api-Basica-Restful
+Modelo básico para estudo de api restful em node.js. 
+>>>>>>> e89d24691d3fd0a77c0559461ff0184b42496f94
